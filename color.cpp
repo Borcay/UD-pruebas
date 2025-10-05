@@ -8,6 +8,7 @@ int main() {
     //     +---- Fondo azul
 
     printf("Ventana con fondo azul y texto amarillo claro!\n");
+    printf("Skibidi sigma pomni");
     return 0;
 }
 
